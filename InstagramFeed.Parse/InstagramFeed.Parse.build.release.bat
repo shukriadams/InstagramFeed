@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe InstagramFeed.Parse.build.xml /t:Build /p:BuildConfig=Release;VisualStudioVersion=12.0;DebugType=full;PreBuildEvent=;PostBuildEvent=;OutputPath=bin\Release;DeployOnBuild=true;DeployTarget=Package;_PackageTempDir=..\_deploy

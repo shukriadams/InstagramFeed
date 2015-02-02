@@ -1,0 +1,1 @@
+msbuild.exe InstagramFeed.build.xml /t:Build /p:BuildConfig=Release;VisualStudioVersion=12.0;DebugType=full;PreBuildEvent=;PostBuildEvent=;OutputPath=bin\Release;DeployOnBuild=true;DeployTarget=Package;_PackageTempDir=..\_deploy
